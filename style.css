@@ -1,0 +1,11 @@
+/*
+ Theme name: Xjobb
+ */
+
+#wp-admin-bar-comments, 
+#collapse-menu, 
+.menu-icon-users, 
+.menu-icon-tools, 
+.menu-icon-comments{
+	display:none;
+}
